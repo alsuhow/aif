@@ -1,6 +1,6 @@
 # Фонд АиФ "Доброе сердце"
 
-[ipynb]('https://github.com/alsuhow/aif/blob/main/AiF_2_0.ipynb')
+(ipynb)'https://github.com/alsuhow/aif/blob/main/AiF_2_0.ipynb'
 
 ## О проекте
 Фонд «АиФ. Доброе сердце» был создан в 2005-м году по инициативе еженедельной газеты «Аргументы и факты». 
